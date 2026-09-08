@@ -1,2 +1,2 @@
-# Kursori-wilma-kurssivalitsin
+# Kursori
 Valitsee automaattisesti valitsemasi kurssit Wilman kurssitarjottimen avautuessa.

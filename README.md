@@ -9,7 +9,7 @@ Valitsee automaattisesti valitsemasi kurssit Wilman kurssitarjottimen avautuessa
 
 3. Kirjoita **chrome://extensions** Chromen hakukenttään.
 
-4. Napsauta päälle kehittäjätila (jos kehittäjätilaa ei voi napsauttaa päälle, kirjaudu Chromeen uudella profiililla, jossa ei ole liitettynä oppilaitoksesi sähköpostiasi)
+4. Napsauta päälle kehittäjätila (jos kehittäjätilaa ei voi napsauttaa päälle, kirjaudu Chromeen uudella profiililla, jossa ei ole liitettynä oppilaitoksesi sähköpostiosoitetta)
 
 5. Paina "Lataa pakkaamaton"
 
@@ -22,7 +22,7 @@ Valitsee automaattisesti valitsemasi kurssit Wilman kurssitarjottimen avautuessa
 
 # Käyttöohjeet
 
-1. Valitse haluamasi kurssit pilkuntarkasti ja muista asettaa ne oikeisiin periodeihin (älä mokaa)
+1. Valitse haluamasi kurssit pilkuntarkasti ja muista asettaa ne oikeisiin periodeihin (huom. kurssit, joissa on plusmerkki, esim. MA3+MA4, eivät valiudu automaattisesti)
 
 Kun olet valinnut kaikki kurssit, laita valmiustila päälle.
 
